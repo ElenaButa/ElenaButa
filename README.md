@@ -1,6 +1,18 @@
 ### Hi there 👋 Welcome to my profile
 ### About me:
-#### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
+#### QA Engineer Web (UI + API) with 2-years work experience in IT area. Have more than 10-years experience as network engineer.
+Know the basics of test automation (Java) 
+Good communicator 
+Quick learner
+Have Academic degree in Network Technology area
+
+My skills:
+• Experience with various types of testing including white box, black box, gray box, API (RESTful, SOAP), regression, web testing
+• Tools: DevTools, Postman, Swagger, Git, Kibana, Figma
+• Databases: MySQL
+• Basic test automation skills using Java (Selenium Web Driver for UI automating testing and RestAssured for API automating testing + Allure frameworks for running and managing tests)
+• Good soft-skills: personal initiative, commitment, perseverance and resilience. 
+• English: B2
 ### Languages and tools:
 <p>
   <img height=46 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
